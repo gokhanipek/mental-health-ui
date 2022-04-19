@@ -4,7 +4,7 @@ A small application to visualize datas from [Kaggle challenge](https://www.kaggl
 ## Tech Stack
 React, Hooks, SCSS, Typescript, json-server
 
-## to do
+## To Do
 Adding state management (Redux-saga)
 Adding a details page where user can see detailed information about countries in detail
 Unit Tests
