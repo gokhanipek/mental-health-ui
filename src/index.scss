@@ -603,6 +603,7 @@ body.light-mode .video-bg:before {
 
   @media screen and (max-width: 480px) {
     width: 120px;
+    font-size: 10px;
   }
 }
 
@@ -638,6 +639,7 @@ body.light-mode .video-bg:before {
 
     @media screen and (max-width: 390px) {
       padding: 6px 14px;
+      font-size: 10px;
     }
 
     &.open {
@@ -886,6 +888,10 @@ body.light-mode .video-bg:before {
     display: flex;
     align-items: center;
     margin-top: 16px;
+    max-width: 100%;
+    overflow-x: auto;
+    overflow-y: hidden;
+    font-size: 10px;
   }
 
   @media screen and (max-width: 1110px) {
