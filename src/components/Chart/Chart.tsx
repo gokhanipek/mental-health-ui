@@ -11,10 +11,8 @@ import {
 import { Bar } from 'react-chartjs-2';
 
 type Props = {
-    datasetLabelA: string;
-    datasetLabelB: string;
-    datasetA: string[];
-    datasetB: string[];
+    datasetLabel: string;
+    dataset: string[];
     labels: string[];
     country: string
 }
