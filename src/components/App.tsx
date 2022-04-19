@@ -13,7 +13,8 @@ export default function App() {
                 <Header />
                 <div className="overlay-app"></div>
                 <Routes>
-                    <Route path="/" element={<Home />} />
+                    <Route path="/mental-health-ui/" element={<Home />} />
+                    <Route path="*" element={<Home />} />
                 </Routes>
             </div>
         </>
