@@ -7,7 +7,6 @@
       "esnext"
     ],
     "allowJs": true,
-    "typescript.validate.enable": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
     "allowSyntheticDefaultImports": true,
