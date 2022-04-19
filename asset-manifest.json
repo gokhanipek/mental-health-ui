@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/mental-health-ui/static/css/main.3bdb8c3f.css",
-    "main.js": "/mental-health-ui/static/js/main.cd91fa96.js",
+    "main.js": "/mental-health-ui/static/js/main.52f5ded5.js",
     "static/js/787.bb624d73.chunk.js": "/mental-health-ui/static/js/787.bb624d73.chunk.js",
     "static/media/macos-bigsur.jpg": "/mental-health-ui/static/media/macos-bigsur.223c97dfa5b03c95dd4e.jpg",
     "index.html": "/mental-health-ui/index.html",
     "main.3bdb8c3f.css.map": "/mental-health-ui/static/css/main.3bdb8c3f.css.map",
-    "main.cd91fa96.js.map": "/mental-health-ui/static/js/main.cd91fa96.js.map",
+    "main.52f5ded5.js.map": "/mental-health-ui/static/js/main.52f5ded5.js.map",
     "787.bb624d73.chunk.js.map": "/mental-health-ui/static/js/787.bb624d73.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.3bdb8c3f.css",
-    "static/js/main.cd91fa96.js"
+    "static/js/main.52f5ded5.js"
   ]
 }
